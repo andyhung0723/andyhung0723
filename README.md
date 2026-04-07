@@ -7,10 +7,7 @@
 * 🏢 **Current**：Dentsu Solution Center **Staff AI Engineer**
 * 💼 **Experience**：安永金融科技 **Full Stack Engineer**
 * 🎓 **Education**：元智大學 資訊工程系
-* 💪 **Interests**: 
-    * ⚾️ 棒球
-    * 🎳 保齡球
-    * 🐶 狗狗 
+* 💪 **Interests**: ⚾️ 棒球  🎳 保齡球  🐶 狗狗 
 
 
 
@@ -40,14 +37,6 @@
 [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-
----
-
-### 🤝 &nbsp;Let's Collaborate
-
-* **[ 💡 技術 ]**：網頁前後端、系統設計、AI 工具
-* **[ ⚙️ 自動化 ]**：把繁瑣的事情自動化或做成小工具
-* **[ ☕️ 聊聊 ]**：聊棒球(MLB)、聊狗狗、聊 PTCG 牌組
 
 
 <!--
