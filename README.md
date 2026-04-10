@@ -5,9 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 * 🏢 **Current**：Dentsu Solution Center **Staff AI Engineer**
-* 💼 **Experience**：安永金融科技 **Full Stack Engineer**
-* 🎓 **Education**：元智大學 資訊工程系
-* 💪 **Interests**: ⚾️ 棒球  🎳 保齡球  🐶 狗狗 
+* 💪 **Interests**：⚾️ 🎳 🐶
 
 
 
