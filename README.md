@@ -1,20 +1,3 @@
-<h2>👋 Hey there! I'm Andy</h2>
-
-<div style="position: relative">
-
-### 👨🏻‍💻 &nbsp;About Me
-
-* 🏢 **Current**：Dentsu Solution Center **Staff AI Engineer**
-* 💪 **Interests**：⚾️ 🎳 🐶
-
-
-
-</div>
-
----
-
-### 🛠 &nbsp;Tech Stack
-
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
@@ -36,18 +19,6 @@
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
-
-<!--
-**andyhung0723/andyhung0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andyhung0723/andyhung0723/output/github-snake-light.svg" />
+</picture>
